@@ -1,1 +1,1 @@
-# -takamatsu-map-template
+# takamatsu-map-template
