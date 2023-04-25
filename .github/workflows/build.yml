@@ -20,8 +20,8 @@ jobs:
 
       - name: Install and Build
         run: |
-          npm install
-          npm run build
+          npm install -g geolonia/takamatsu-map-cli#main
+          takamatsumaps build ./data.csv ./docs
 
       - name: Deploy the files to `gh-pages`
         uses: peaceiris/actions-gh-pages@v3
