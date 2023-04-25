@@ -20,3 +20,6 @@ CSVファイルを編集することで、任意のデータを高松市スマ�
 ![](https://www.evernote.com/l/ABXqA26fEitDNZG6KDxX-Os6Qb8gciGRKSYB/image.png)
 
 ### CSV の編集方法
+
+[data.csv](https://github.com/geolonia/takamatsu-map-template/blob/main/data.csv) をクリックし、以下の鉛筆アイコンをクリックすると編集できるようになります。
+<img width="1112" alt="スクリーンショット 2023-04-25 11 26 54" src="https://user-images.githubusercontent.com/8760841/234159684-df28068b-c4ff-4fc3-a3ca-9d81d126d983.png">
