@@ -1,0 +1,23 @@
+{
+  "name": "takamatsu-map-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "takamatsumaps build ./data.csv ./docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geolonia/takamatsu-map-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geolonia/takamatsu-map-template/issues"
+  },
+  "homepage": "https://github.com/geolonia/takamatsu-map-template#readme",
+  "dependencies": {
+    "takamatsu-map-cli": "github:geolonia/takamatsu-map-cli"
+  }
+}
