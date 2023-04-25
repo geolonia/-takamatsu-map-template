@@ -1,9 +1,9 @@
 # Takamatsu Map Template
 
-このリポジトリは、CSV フォーマットのデータを 高松市スマートマップで表示するためのテンプレートリポジトリです。
+このリポジトリは、CSV フォーマットのデータを 高松市スマートマップで表示するためのテンプレートリポジトリです。  
+CSVファイルを編集することで、任意のデータを高松市スマートマップで表示できます。
 
-CSVファイルを編集することで、お好きなデータを高松市スマートマップで表示できます。
-https://geolonia.github.io/takamatsu-map-template/
+デモ：https://geolonia.github.io/takamatsu-map-template/
 
 
 ## ご利用方法
