@@ -8,7 +8,6 @@
 
 * [[Use this template]](https://github.com/geolonia/takamatsu-map-template/generate) ボタンをクリックして、このテンプレートを自分のリポジトリにコピーしてください。
 * `data.csv` を編集してコミットすると数分後に `https://<あなたのGitHubユーザー名>.github.io/<リポジトリ名>/` の URL で地図にアクセスできます。（[サンプル URL](https://geolonia.github.io/takamatsu-map-template)）
-* 点データのみに対応しています。
 
 ## GitHub Pages の設定方法
 
