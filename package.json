@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "takamatsumaps build ./data.csv ./docs",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "takamatsumaps serve ./data.csv",
+    "build": "takamatsumaps build ./data.csv ./docs"
   },
   "repository": {
     "type": "git",
@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/geolonia/takamatsu-map-template#readme",
   "dependencies": {
-    "takamatsu-map-cli": "github:geolonia/takamatsu-map-cli"
+    "takamatsu-smart-map-cli": "github:geolonia/takamatsu-map-cli#main"
   }
 }
